@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sterling
-- 👀 I’m interested in finance and investing and how I can use Python and SQL to optimize both. I've worked for 7 years in finance now and want to add some coding skills. I have a certificate in Financial Planning from the College of Financial Planning. I routinely sell options for side income, specifically Iron Condors on SPX and XSP. It worked great in some environments (low volatility, obviously) and terrible in other environments (earnings, Fed days, increased volatility). My goal is to build something that can formalize the daily decision making of whether or not to sell condors that day and how wide of a margin to make the short strikes. 
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in finance and investing and how I can use Python and SQL to optimize both. I've worked for 7 years in finance now and want to add some coding skills. I have a certificate in Financial Planning from the College of Financial Planning.
+- 🌱 I’m currently completing free Code Camp's curriculum and will showcase my projects here.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
